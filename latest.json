@@ -1,4 +1,6 @@
 {
-  "version": "0.6.1",
-  "notes": "Versión base del POS local con búsqueda de actualizaciones desde Configuración."
+  "version": "0.6.3",
+  "url": "https://github.com/archiluis10-coder/estacion10-nova-actualizaciones./releases/download/v0.6.3/Estacion10-NOVA-v0.6.3-actualizacion.asar",
+  "sha256": "d287953ec533c90b15a96e79d98444b307f4095acfe5a5d21aaac5cf4fd0183c",
+  "notes": "Corrige el logo en los tickets y mueve respaldo, importación y restauración de catálogo a Configuración; elimina la barra flotante del cobro."
 }
